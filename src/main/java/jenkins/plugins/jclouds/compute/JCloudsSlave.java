@@ -96,7 +96,6 @@ public class JCloudsSlave extends Slave {
        return nodeMetaData;
    }
 
-
     /**
      * Get the retention time for this slave, defaulting to the parent cloud's if not set.
      *

@@ -39,7 +39,7 @@ import org.jclouds.compute.ComputeServiceContext;
 import org.jclouds.compute.config.ComputeServiceProperties;
 import org.jclouds.compute.domain.ComputeMetadata;
 import org.jclouds.compute.domain.NodeMetadata;
-import org.jclouds.crypto.SshKeys;
+import org.jclouds.ssh.SshKeys;
 import org.jclouds.enterprise.config.EnterpriseConfigurationModule;
 import org.jclouds.logging.jdk.config.JDKLoggingModule;
 import org.jclouds.providers.Providers;
